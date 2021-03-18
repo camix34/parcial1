@@ -9,3 +9,4 @@ lo que el sistema requiera.
 para hacer un trabajo mas objetivo.
 5-las graficas las cuales nos muestran datos de los beneficios obtenidos, perdidas y otros aspéctos importantes para 
 la toma de deciciones.
+6.por que agilisa el proceso de toma de deciciones
