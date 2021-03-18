@@ -1,3 +1,6 @@
 1-es un conjunto de elementos, instituciones que actuan con un orden para realizar sus onjetivos en comun
 
 2-abiertos.un carro,planta solar, pagina web, cerraodsa.agua embotellada,televisor, termomotro
+
+3-el sistema se veria disminudo por el ambiente que lo rodea ya que este puede ser muy grande por lo que ponemos limites para enfocarnos en 
+lo que el sistema requiera.
